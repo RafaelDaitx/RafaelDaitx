@@ -22,7 +22,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ![Gmail Badge](https://img.shields.io/badge/-Rafael-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{rafa.daitx.silva@gmail.com})
 [![Linkedin: Rafael](https://img.shields.io/badge/-RafaelDaitx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rafaeldaitx/)](https://www.linkedin.com/in/rafaeldaitx/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RafaDaitx?style=social)](https://x.com/Rafa_Daitx)
-[![Telegram Follow](https://img.shields.io/badge/Telegram-Follow-blue?style=social&logo=telegram)](https://t.me/SeuUsuarioTelegram)<br><br>
+[![Telegram Follow](https://img.shields.io/badge/-Rafael-blue?style=social&logo=telegram)](https://t.me/Rafa_daitx)<br><br>
 
 
 
