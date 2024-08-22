@@ -10,10 +10,10 @@
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,cs,php,flutter,node,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,cs,php,flutter,node,spring)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,mysql,firebase,sqlserver,oracle,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,mysql,firebase,sqlite,aws)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,docker,eclipse,figma,github,idea,)](https://skillicons.dev)<br><br>
 
